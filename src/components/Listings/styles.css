@@ -1,0 +1,12 @@
+.custom-btn{
+    border: 0 !important;
+    background-color: #b3e140;
+    transition: all 0.2s linear;
+}
+.custom-btn:hover{
+    background-color: white;
+}
+
+.custom-btn:active{
+    transform: scale(1.05);
+}

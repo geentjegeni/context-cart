@@ -1,0 +1,11 @@
+.cart-items {
+    padding: 5px;
+    transition: background-color 0.2s linear;
+
+}
+
+.cart-items:hover {
+    cursor: pointer;
+    color: black;
+    background-color: #b3e140;
+}

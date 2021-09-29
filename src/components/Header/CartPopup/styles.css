@@ -1,0 +1,10 @@
+.just-test{
+    position: absolute;
+    background-color: rgb(33 37 41 / 88%);
+    color: white;
+    right: 0 !important;
+    top: 60px !important;
+    border-bottom: 3px solid yellow!important;
+    border-radius: 0;
+    transition: all 0.5s ease-in;
+}
